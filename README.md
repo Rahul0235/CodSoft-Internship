@@ -1,3 +1,3 @@
 # CodSoft-Internship
-#My first intershiip
+#My First Internship
 
