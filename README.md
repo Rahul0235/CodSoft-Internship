@@ -10,7 +10,7 @@ This repository contains a collection of small Java projects created for learnin
 - Student Grade Calculator
 
 ### Intermediate (GUI & Functional Projects)
-- Quiz-Application-Using-Java
+- Quiz Application
 - Course Resgistration System
 
 
