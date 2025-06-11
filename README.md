@@ -6,12 +6,13 @@ This repository contains a collection of small Java projects created for learnin
 
 ### Beginner (Console Applications)
 - ATM Interface
-- Course Resgistration
 - Number Game
 - Student Grade Calculator
 
 ### Intermediate (GUI & Functional Projects)
 - Quiz-Application-Using-Java
+- Course Resgistration System
+
 
 
 ## 🛠 How to Run
