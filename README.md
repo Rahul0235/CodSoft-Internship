@@ -1,17 +1,21 @@
 # Java Mini Projects
 
-:contentReference[oaicite:1]{index=1}
+This repository contains a collection of small Java projects created for learning and practice. Projects range from beginner-level console apps to intermediate GUI and database-based applications.
 
-## 🚀 Projects
+## 📁 Project List
 
-### Easy
-- **BMI Calculator**
-- **Calculator**
-- **Currency Converter**
+### Beginner (Console Applications)
+- ATM Interface
+- Course Resgistration
+- Number Game
+- Student Grade Calculator
 
-- **Loan Calculator**
-- **Temperature Converter**
-- **Billing System**
+### Intermediate (GUI & Functional Projects)
+- Quiz-Application-Using-Java
 
 
+## 🛠 How to Run
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rahul0235/Java-Mini-Projects.git
